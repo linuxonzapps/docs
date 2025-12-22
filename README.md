@@ -14,6 +14,11 @@ form, including binary, RPM, DEB, or container images. The builds
 provided for each project depend upon what makes sense for the project,
 and what the developer providing the binaries can confidently test.
 
+## Project Resources
+
+ * [Mailing list](https://lists.openmainframeproject.org/g/mainframe-software-hub-discussion) (main channel for team communication)
+ * [Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/mainframe-software-hub-for-linux) (online team meetings, events)
+
 ## Organization Structure
 
 ### Users
